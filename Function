@@ -1,0 +1,33 @@
+FILE EXPLORER
+
+1234567891011121314151617181920212223242526272829
+{
+	"deploy": {
+		"VM:-": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		},
+		"main:1": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		},
+
+0
+listen on all transactions
+Search with transaction hash or address
+ Welcome to Remix 0.33.2 
+
+Your files are stored in indexedDB, 4.21 MB / 142.25 GB used
+
+You can use this terminal to: 
+Check transactions details and start debugging.
+Execute JavaScript scripts:
+ - Input a script directly in the command line interface 
+ - Select a Javascript file in the file explorer and then run `remix.execute()` or `remix.exeCurrent()`  in the command line interface  
+ - Right click on a JavaScript file in the file explorer and then click `Run` 
+The following libraries are accessible:
+web3 version 1.5.2
+ethers.js 
+remix
+Type the library name to see available commands.
+>
